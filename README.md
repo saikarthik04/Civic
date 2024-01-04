@@ -1,5 +1,5 @@
 # Civic
-civic consists of a ecommerce API and a client application.
+civic consists of a ecommerce API.
 
 #server 
 Install node.js  in your local machine. 
